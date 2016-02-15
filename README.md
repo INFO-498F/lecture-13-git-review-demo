@@ -1,4 +1,4 @@
-# lecture-13-git-review-demo
+# Git review demo
 This is a really quick demo to show how to check for and then pull down changes from a remote repository. To follow along:
 
 1. Clone this repository (yes, _**this**_ repository):
