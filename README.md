@@ -24,5 +24,14 @@ This is a really quick demo to show how to check for and then pull down changes 
 4. Integrate the changes into your (unchanged) repository using the `git pull` command:
   
   ```
+  # Check status 
+  git status
+  
+  # Pull in changes
   git pull origin master
+  ```
+5.  Confirm that you can see the changes in your (local) log
+  
+  ```
+  git log --oneline
   ```
