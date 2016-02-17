@@ -14,7 +14,7 @@ This is a really quick demo to show how to check for and then pull down changes 
   git remote -v
   ```
   
-3. Wait for Mike to make changes
+3. Mike made some changes
 4. Check to see if there have been any changes:
   
   ```
